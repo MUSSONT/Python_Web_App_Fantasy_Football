@@ -14,8 +14,7 @@ bokeh==0.12.13
 boto==2.48.0
 boto3==1.9.7
 botocore==1.12.7
-Box2D==2.3.2
-Box2D-kengz==2.3.3
+
 bresenham==0.2
 bz2file==0.98
 certifi==2017.11.5
