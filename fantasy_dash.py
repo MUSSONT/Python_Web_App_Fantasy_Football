@@ -1,1 +1,1 @@
-from worldbankapp import app
+from fantasy_dash import app
